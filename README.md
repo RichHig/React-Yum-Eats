@@ -9,4 +9,4 @@ ReactJS, Tailwind CSS
 ### Website
 
 Checkout the website via the link below!
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://cerulean-cranachan-41c02d.netlify.app/
