@@ -1,6 +1,6 @@
 # Yum Eats
 
-This project was made with React and is a lading page for a ubereats/deliveroo style app.
+This project was made with React and is a landing page for a ubereats/deliveroo style app.
 
 ## Tech Stack
 
